@@ -1,2 +1,2 @@
 # Google HomePage clone
-[Odin Project] (https://theodinproject.com)
+### [Odin Project](https://theodinproject.com)
